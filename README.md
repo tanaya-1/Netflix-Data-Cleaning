@@ -74,7 +74,6 @@ This mini project explores the Netflix Movies and TV Shows dataset using Python 
 | `duration_numpy.py` | Duration analysis using NumPy |
 | `outputs/` | Exported analysis results and visualization |
 
-*File names above describe the expected project structure; verify that each file exists in the repository.*
 
 ## Analysis Outputs
 
